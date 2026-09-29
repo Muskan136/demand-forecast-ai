@@ -21,6 +21,12 @@ against a seasonal-naive baseline, what-if promotion scenarios, robust anomaly d
 - **Validation:** time-based split (no leakage), compared with seasonal-naive baseline
 - **Anomalies:** robust z-score (MAD) on log-ratio vs same-weekday median of previous 4 weeks
 - **Engineering:** pytest tests, GitHub Actions CI, Dockerfile
+- ## 🚀 Live Demo
+
+**[👉 Open Demand Forecast AI — Live App](https://muskan136-demand-forecast-ai-app-hrjbbb.streamlit.app/)**
+
+Click the link above to open the **live, deployed application** directly in your browser.
+
 
 ## Run
 ```bash
